@@ -1,2 +1,2 @@
 # AngularRouting
-Angular routing as critical concept in developing SPAs with Angular
+Angular routing as a critical concept in developing SPAs with Angular
